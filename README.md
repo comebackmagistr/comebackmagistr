@@ -17,7 +17,7 @@
   
   ### :hammer_and_wrench: About me:
   <br />
- :space_invader: My name is Igor, I'm 23 years old
+ :space_invader: My name is Igor
   <br />
 :sunglasses: I am a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 
   </div>
