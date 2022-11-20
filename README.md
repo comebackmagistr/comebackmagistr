@@ -19,7 +19,7 @@
   <br />
  :space_invader: My name is Igor
   <br />
-:sunglasses: I am a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 
+:sunglasses: I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 
   </div>
  <div> 
   
