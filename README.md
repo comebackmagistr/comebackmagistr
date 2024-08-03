@@ -19,6 +19,8 @@
  :space_invader: My name is Igor
   <br />
 :sunglasses: I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 
+  <br />
+  My frontend development experience is over 3 years, primarily in fintech. I strive to grow as a specialist and learn new tools. I am not afraid to experiment.
   </div>
  <div> 
   
