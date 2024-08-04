@@ -49,4 +49,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="prisma" alt="prisma" width="40" height="40"/>&nbsp;
    </div>
