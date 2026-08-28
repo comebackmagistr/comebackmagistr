@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+  <div class="tenor-gif-embed" data-postid="13617845628698206795" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/bocchi-punch-monitor-anime-twitter-gif-13617845628698206795">Bocchi Punch GIF</a>from <a href="https://tenor.com/search/bocchi-gifs">Bocchi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/comebackmagistr"> <img src="https://i.imgur.com/sSuB0yd.png" width="50" alt="Telegram Bage"/> </a>
@@ -20,7 +20,7 @@
   <br />
 :sunglasses: I am a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 
   <br />
-  My frontend development experience is over 5 years, primarily in fintech. I strive to grow as a specialist and learn new tools. I am not afraid to experiment.
+  My fullstack development experience is over 5 years, primarily in fintech. I strive to grow as a specialist and learn new tools. I am not afraid to experiment.
   </div>
  <div> 
   
